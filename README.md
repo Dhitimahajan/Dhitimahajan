@@ -54,10 +54,6 @@ I have a keen interest in **AI and Machine Learning** as well as **Data Science*
 
 🌷🌺🌸🌼🌷🌺🌸🌼🌷🌺🌸🌼🌷🌺🌸🌼🌷🌺🌸🌼
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhitimahajan&theme=darkhub&column=4" alt="Trophies" />
-
 ## ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
