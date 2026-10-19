@@ -62,8 +62,6 @@ I have a keen interest in **AI and Machine Learning** as well as **Data Science*
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
-
-
 🌸🌼🌺🌷🌸🌼🌺🌷🌸🌼🌺🌷🌸🌼🌺🌷🌸🌼🌺🌷
 
 </div>
