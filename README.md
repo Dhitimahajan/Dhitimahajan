@@ -9,16 +9,16 @@
 Hello! I'm a second-year CS student at SRM University 🌷
 I have a keen interest in **AI and Machine Learning** as well as **Data Science**
 
-- 🔭 I'm currently working on: Python projects to develop my skills
-- 🌱 I'm currently learning: Data Structures & Algorithms, Git and open source
-- 💬 Ask me about: Python, C++, HTML/CSS, or beginner coding concepts
+- 🔭 I'm currently working on: Projects to develop my skills
+- 🌱 I'm currently learning: Data Structures & Algorithms,AI/ML, Data Science
+- 💬 Ask me about: Python, C++, or beginner coding concepts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhiti-mahajan-864755383/)
 
 <div align="center">
 
 🌺🌸🌼🌷🌺🌸🌼🌷🌺🌸🌼🌷🌺🌸🌼🌷🌺🌸🌼🌷
 
-## 💻 Tech Stack
+## 💻 Tech Stack 
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
